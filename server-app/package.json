@@ -1,7 +1,7 @@
 {
-  "name": "url-shortner-api",
+  "name": "url-shortner",
   "version": "1.0.0",
-  "description": "URL shortner API",
+  "description": "URL shortner app",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
